@@ -13,6 +13,10 @@ This project aims to leverage data science techniques to extract and analyze kno
 - Perform data analysis to identify patterns and correlations within the texts.
 - Develop visualizations to present findings in an accessible manner.
 
+
+## Many Parts are broken, i do this in my free time, still learning. If you are interested feel free to add your self to the list in projects or community contributors.
+
+
 ## Installation and Setup
 1. Clone the repository:
    ```
@@ -48,7 +52,8 @@ Here are some examples of the analyses and visualizations you can generate with 
 - Correlation analysis between different concepts.
 
 ## Contributing
-We welcome contributions from the community. Please fork the repository and submit pull requests with your improvements.
+We welcome contributions from the community. Please fork the repository and submit pull requests with your improvements. github username.
+1. [ravii-teja](https://github.com/ravii-teja/)
 
 ## Acknowledgments
 We would like to thank all the scholars and researchers who have contributed to the study of the Vedas, as well as the developers of the data science tools and libraries used in this project.
