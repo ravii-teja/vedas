@@ -1,5 +1,7 @@
 # Vedas Data Science Project
 
+![banner](https://github.com/ravii-teja/vedas/blob/main/images/banner.jpeg)
+
 Exploring the Intersection of Vedas and Science
 
 ## Overview
