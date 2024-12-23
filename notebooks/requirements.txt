@@ -1,0 +1,4 @@
+jupyter
+llama
+PyPDF2
+chardet
