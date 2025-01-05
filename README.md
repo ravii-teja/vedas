@@ -1,4 +1,4 @@
-# Vedas Research Project
+# Vedas Research: Exploring Ancient Knowledge
 
 ![banner](https://github.com/ravii-teja/vedas/blob/main/images/banner.jpeg)
 
