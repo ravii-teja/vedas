@@ -1,4 +1,4 @@
-# Vedas Data Science Project
+# Vedas Research Project
 
 ![banner](https://github.com/ravii-teja/vedas/blob/main/images/banner.jpeg)
 
